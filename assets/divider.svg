@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="18" viewBox="0 0 900 18" role="img">
+<title>divider</title>
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#ff2b2b" stop-opacity="0"/><stop offset=".5" stop-color="#ff2b2b"/><stop offset="1" stop-color="#ff2b2b" stop-opacity="0"/></linearGradient></defs>
+<rect x="0" y="8.25" width="900" height="1.5" fill="url(#l)"/>
+<polygon points="428,5 431.46,7 431.46,11 428,13 424.54,11 424.54,7" fill="#0b0b0b" stroke="#ff2b2b" stroke-width="1.5"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></polygon>
+<polygon points="450,3.5 454.76,6.25 454.76,11.75 450,14.5 445.24,11.75 445.24,6.25" fill="#0b0b0b" stroke="#ff2b2b" stroke-width="1.5"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></polygon>
+<polygon points="472,5 475.46,7 475.46,11 472,13 468.54,11 468.54,7" fill="#0b0b0b" stroke="#ff2b2b" stroke-width="1.5"><animate attributeName="opacity" values="1;.35;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></polygon>
+</svg>
